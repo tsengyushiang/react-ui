@@ -1,6 +1,6 @@
 {
   "name": "@tsengyushiang/react-ui",
-  "version": "0.1.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "private": false,
   "files": [
@@ -10,7 +10,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@tsengyushiang"
   },
-  "homepage":"https://tsengyushiang.github.io/react-ui/",
+  "homepage": "https://tsengyushiang.github.io/react-ui/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
